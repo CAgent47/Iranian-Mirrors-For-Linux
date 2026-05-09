@@ -3,7 +3,9 @@ Iranian Mirrors For Linux Debian Based
 
 ---
 
-#Irannian Mirrors List:
+# Irannian Mirrors List:
+
+Tip : Don't Copy Links To Your Mirrors Copy And Check This Site
 
 ![Liara_Mirrors](https://liara.ir/mirrors/)
 
