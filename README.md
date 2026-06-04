@@ -32,4 +32,4 @@ Hoping for Iran's Internet to become stable
 
 ---
 
-  ![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
+![Banner](banner.png)
